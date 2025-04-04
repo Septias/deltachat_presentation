@@ -1,4 +1,5 @@
-- The Bot can be understood as the **backend** of the X-Store.
-- It provides a **CLI** for starting the bot, importing apps and other utlity functions.
-- To create your own store bot you only need the **store executable** and a list of applications (wexbdcs).
-- It **distributes** the frontend and the apps to the users.
+- Delta Chat Bots verhalten sich genau wie normale Deltachat Nutzer
+- Es können Nachrichten Empfangen und Gelesen werden
+- Er kan Chats erstellen und löschen
+- Er kann die Interaktion mit Webxdcs simulieren
+- Gutes Beispiel X-Store

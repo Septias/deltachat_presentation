@@ -1,6 +1,6 @@
-- **Webxdc** is a standart developed by the DeltaChat organisation.
-- It encompasses the idea that it should be possible to send apps to chats.
-- The apps are build from `html`, `css` and `js`.
-- DeltaChat executes these apps in an **isolated** browser.
-- No communication to the public internet is possible, only the provided **APIs** are accessible.
-- Communication uses the two fundamental functions `sendStatusUpdate` and `setUpdateListener`.
+- Wie cool wäre es, wenn man in chats auch noch gemeinsame Apps teilen könnte?
+- Das geht mit **webxdc**
+- Apps können ganz einfach mit `html`, `css` und `js` erstellt werden.
+- DeltaChat führt diese Apps in einem **isolierten** Browser aus.
+- Eine Kommunikation mit dem öffentlichen Internet ist nicht möglich; nur die bereitgestellten **APIs** sind zugänglich.
+- Die Kommunikation verwendet nur zwei grundlegenden Funktionen `sendStatusUpdate` und `setUpdateListener`.

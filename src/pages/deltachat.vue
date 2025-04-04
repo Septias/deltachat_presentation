@@ -13,5 +13,5 @@ slide
 <route lang="yaml">
 meta:
   heading: What ist Deltachat?
-  next: webxdc
+  next: dc-features
 </route>

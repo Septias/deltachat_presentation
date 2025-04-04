@@ -9,7 +9,7 @@ const slidesMap = router.getRoutes().reduce((map, route) => {
 
 const slides: { heading: string; path: string }[] = []
 let current = slidesMap['intro']
-console.log(slides)
+
 while (current) {
   if (current.meta.heading) {
     slides.push({

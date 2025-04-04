@@ -1,0 +1,5 @@
+-
+- Sehr einfach zu verwaltene Email-Relay
+- Optimiert auf schnellen Emailverkehr
+- Versendet nur verschlüsselte Nachrichten
+- Hohes Maß an Sicherheit: DKIM, aDKIM, TSL, ..
