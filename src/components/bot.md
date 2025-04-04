@@ -1,0 +1,4 @@
+- The Bot can be understood as the **backend** of the X-Store.
+- It provides a **CLI** for starting the bot, importing apps and other utlity functions.
+- To create your own store bot you only need the **store executable** and a list of applications (wexbdcs).
+- It **distributes** the frontend and the apps to the users.

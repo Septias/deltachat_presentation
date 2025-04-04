@@ -1,0 +1,4 @@
+- DeltaChat is a Messenger like **WhatsApp** or **Telegram**.
+- The underlying communication mechanism is **E-mail**.
+- This way virtually everyone can use DeltaChat and it is by design decentralized.
+- **Privacy** and **decentralization** are core feature of DeltaChat.
