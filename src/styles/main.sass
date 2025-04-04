@@ -1,0 +1,91 @@
+html,
+body,
+#app
+  height: 100%
+  margin: 0
+  padding: 0
+
+$width: 1200px
+
+.modal
+  @apply border-2 border-blue-500 rounded-xl p-5
+
+.c-grid
+  display: flex
+  @apply justify-stretch items-stretch gap-2
+
+.min-width
+  width: 100%
+
+@media screen and (min-width: $width)
+  .min-width
+    width: $width
+
+  .c-grid
+    @apply justify-center
+
+table
+  @apply text-xl
+  th
+    @apply text-blue-600
+
+  td
+    @apply border-1 p-2
+h1
+  @apply text-5xl mb-5 text-blue-600
+
+h2
+  @apply text-3xl text-blue-600 font-bold mb-3
+
+ul
+  li
+    @apply pb-2 text-2xl
+
+p,li
+  @apply text-2xl
+
+span
+  @apply font-bold
+
+
+img
+  @apply rounded-xl shadow-xl
+
+ol
+  list-style: decimal
+  padding: 30px
+
+ol li
+  @apply my-5
+
+// taken from w3schools
+ul
+  list-style: none
+  @apply ml-6 mt-5
+
+ul li::before
+  content: "\2022"
+  @apply color-blue-600
+  font-weight: bold
+  display: inline-block
+  width: 1em
+  margin-left: -1em
+
+:root
+  --bg-explanation: #299D61
+  --color-light: #9ACE99
+  --accent: #0a2e1b
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar
+  width: 12px
+
+::-webkit-scrollbar-track
+  background: #f1f1f1
+  border-radius: 10px
+
+::-webkit-scrollbar-thumb
+  @apply bg-blue-600
+  border-radius: 10px
+  border: 3px solid #f1f1f1
+
