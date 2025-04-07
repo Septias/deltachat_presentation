@@ -1,6 +1,6 @@
 <template lang="pug">
 slide
-  div.h-full.grid.place-content-center
+  .h-full.grid.place-content-center
     h1 Deltachat als Lern- und Schulmessenger
     p.text-2xl.text-black Sebastian Klähn
 </template>

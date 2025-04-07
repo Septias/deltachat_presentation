@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+import { useRouter } from 'vue-router'
+
 const router = useRouter()
 const slidesMap = router.getRoutes().reduce((map, route) => {
   if (route.name) {
