@@ -6,8 +6,8 @@ slide
       webxdc_content
     template(#right)
       .flex.gap-4
-        img(width="250" src="/webxdc_chat.png")
-        img(width="250" src="/webxdc_app.png")
+        img(width="250" src="/webxdc_chat.webp")
+        img(width="250" src="/webxdc_app.webp")
 </template>
 
 <route lang="yaml">

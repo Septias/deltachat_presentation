@@ -6,8 +6,8 @@ slide
       dc
     template(#right)
       .flex.gap-4
-        img(width="250" src="/store.png")
-        img(width="250" src="/store2.png")
+        img(width="250" src="/store.webp")
+        img(width="250" src="/store2.webp")
 </template>
 
 <route lang="yaml">

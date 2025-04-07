@@ -6,8 +6,8 @@ slide
       bot
     template(#right)
       .flex.gap-5
-        img(width="250" src="/bot_chat.jpeg")
-        img(width="250" src="/xstore.jpeg")
+        img(width="250" src="/bot_chat.webp")
+        img(width="250" src="/xstore.webp")
 
 </template>
 
