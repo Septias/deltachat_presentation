@@ -4,12 +4,18 @@
 
     slide2sides
       template(#left)
-        ul
-          li Connect with people by simply scanning a QR code
-          li No need to share your phone number
-          li No need to set a password
+        .flex.flex-col
+          ul
+            li Connect with people by simply
+              b  scanning a QR code
+            li No need to share your phone number
+            li No need to set a password
+          .grid.grow.place-content-center
+            img(src="/qr-big.jpeg" width="300")
       template(#right)
-        img(width="250" src="/onboarding.jpeg")
+        .flex.gap-2
+          img(width="250" src="/onboarding.jpeg")
+          img(width="250" src="/securejoin.jpeg")
   </template>
 
   <route lang="yaml">

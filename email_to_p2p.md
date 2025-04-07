@@ -1,0 +1,20 @@
+
+- Be a nice messanger that feels similar to others
+- Share QR and end up in a group
+- How to really think about email in DC context
+- "We declined for the simple reason that delta Chat developrs have no access to user data whatsoever"
+- Very cheap email traffic in cuba
+- Replacing billionairish platforms with ZIP files
+- No IO with the world (xdcs)
+- webxdc.org/apps/
+- Realtime editors
+- Perfect forward secrecy
+- xmpp, chogram, monocles
+- Shopping list
+- webxdc apps are open source
+- No accounts / login
+- Authentication by default (no real identities though)
+- No metadata
+- Easier on all sides
+- Chatmail servers, Iroh relays, push notification servers
+- Block 500
