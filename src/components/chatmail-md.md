@@ -1,8 +1,8 @@
 - Sehr einfach zu verwaltene **Email-Relays**
 - **Keine Datenspeicherung**, nur Übermittlung
 - Optimiert auf **schnellen** Emailverkehr
-- Versendet **nur verschlüsselte** Nachrichten
+- Versendet **nur verschlüsselte** Nachrichten (Outbound-filter)
 - Hohes Maß an Sicherheit: DKIM, aDKIM, TSL, ..
-- Komponenten: **Postfix**, **Dovecot**, ..
+- Komponenten: **Postfix**, **Dovecot**, **opendkim**, **acmetool**, **nginx**, ..
 - **Sicher** vor MITM Angriffen
 - Einzig einsehbare Daten: Nachrichtendatum, Sender und Empfänger Addresses.
