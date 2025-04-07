@@ -1,11 +1,11 @@
 <template lang="pug">
   slide
-    h1 Deltachat Features
+    h1 Delta Chat Features
     dc-features-md
   </template>
 
   <route lang="yaml">
   meta:
-    heading: Übersicht der Deltachat Features
+    heading: Übersicht der Delta Chat Features
     next: instant-onboarding
   </route>

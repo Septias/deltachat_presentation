@@ -33,6 +33,6 @@ div.w-screen.h-screen.c-grid
       slot
     .flex.justify-between.px-5.mt-10
       span Sebastian Klähn
-      span.text-blue-700 Deltachat als Lern- und Schulmessenger
+      span.text-blue-700 Delta Chat als Lern- und Schulmessenger
       router-link(to="structure")
 </template>

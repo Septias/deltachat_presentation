@@ -1,6 +1,6 @@
 <template lang="pug">
 slide
-  h1 Deltachat Bots
+  h1 Delta Chat Bots
   slide2sides
     template(#left)
       bot
@@ -13,6 +13,6 @@ slide
 
 <route lang="yaml">
 meta:
-  heading: Deltachat Bots
+  heading: Delt Chat Bots
   next: outro
 </route>

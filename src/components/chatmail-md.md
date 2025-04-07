@@ -1,4 +1,4 @@
-- Sehr einfach zu verwaltene **Email-Relays**
+- Sehr einfach zu verwaltene **Email-Relays** und selber aufzusetzen
 - **Keine Datenspeicherung**, nur Übermittlung
 - Optimiert auf **schnellen** Emailverkehr
 - Versendet **nur verschlüsselte** Nachrichten (Outbound-filter)

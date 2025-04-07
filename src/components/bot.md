@@ -1,4 +1,4 @@
-- Delta Chat Bots verhalten sich genau wie **normale Deltachat Nutzer**
+- Delta Chat Bots verhalten sich genau wie **normale Delta Chat Nutzer**
 - Es können Nachrichten **Empfangen und Gelesen** werden
 - Er kan **Chats erstellen und löschen**
 - Er kann die Interaktion mit **Webxdcs simulieren**

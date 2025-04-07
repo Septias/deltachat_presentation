@@ -1,6 +1,6 @@
 <template lang="pug">
 slide
-  h1 Was ist Deltachat?
+  h1 Was ist Delta Chat?
   slide2sides
     template(#left)
       dc
@@ -12,6 +12,6 @@ slide
 
 <route lang="yaml">
 meta:
-  heading: Was ist Deltachat überhaupt?
+  heading: Was ist Delta Chat überhaupt?
   next: dc-features
 </route>

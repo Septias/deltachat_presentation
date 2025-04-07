@@ -1,6 +1,6 @@
 <template lang="pug">
 slide
-  h1 Der Webxdc Standart
+  h1 Webxdc: Geteilte Apps in Chats
   slide2sides
     template(#left)
       webxdc_content
