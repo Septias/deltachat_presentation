@@ -6,6 +6,6 @@
 
   <route lang="yaml">
   meta:
-    heading: Deltachat Features
+    heading: Übersicht der Deltachat Features
     next: instant-onboarding
   </route>

@@ -1,4 +1,5 @@
-- DeltaChat is a Messenger like **WhatsApp** or **Telegram**.
-- The underlying communication mechanism is **E-mail**.
-- This way virtually everyone can use DeltaChat and it is by design decentralized.
-- **Privacy** and **decentralization** are core feature of DeltaChat.
+- DeltaChat ist ein **Messenger** wie WhatsApp oder Telegram.
+- Der zugrunde liegende Kommunikationskanal ist **E-Mail**.
+- Auf diese Weise kann praktisch jeder DeltaChat nutzen, und es ist von Natur aus dezentralisiert.
+- **Privatsphäre** und **Dezentralisierung** sind Kernmerkmale von DeltaChat.
+- <https://delta.chat/de/download>

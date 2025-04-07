@@ -6,14 +6,15 @@
       template(#left)
         .flex.flex-col
           ul
-            li Connect with people by simply
-              b  scanning a QR code
-            li No need to share your phone number
-            li No need to set a password
+            li Verbinden Sie sich mit Menschen, indem Sie einfach
+              b  einen QR-Code scannen
+            li Keine Notwendigkeit, die Telefonnummer zu teilen
+            li Kein Passwort erforderlich
+            li.text-blue-600 https://delta.chat/de/download
           .grid.grow.place-content-center
             img(src="/qr-big.jpeg" width="300")
       template(#right)
-        .flex.gap-2
+        .flex.gap-4
           img(width="250" src="/onboarding.jpeg")
           img(width="250" src="/securejoin.jpeg")
   </template>

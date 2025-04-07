@@ -1,5 +1,8 @@
--
-- Sehr einfach zu verwaltene Email-Relay
-- Optimiert auf schnellen Emailverkehr
-- Versendet nur verschlüsselte Nachrichten
+- Sehr einfach zu verwaltene **Email-Relays**
+- **Keine Datenspeicherung**, nur Übermittlung
+- Optimiert auf **schnellen** Emailverkehr
+- Versendet **nur verschlüsselte** Nachrichten
 - Hohes Maß an Sicherheit: DKIM, aDKIM, TSL, ..
+- Komponenten: **Postfix**, **Dovecot**, ..
+- **Sicher** vor MITM Angriffen
+- Einzig einsehbare Daten: Nachrichtendatum, Sender und Empfänger Addresses.

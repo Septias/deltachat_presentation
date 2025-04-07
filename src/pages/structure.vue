@@ -26,10 +26,10 @@ while (current) {
 
 <template lang="pug">
 slide
-  h1 Structure
+  h1 Agenda
   ul
     li(v-for="slide in slides" :key="slide.path")
-      router-link(:to="slide.path") {{ slide.heading }}
+      router-link.text-black(:to="slide.path") {{ slide.heading }}
 </template>
 
 <route lang="yaml">

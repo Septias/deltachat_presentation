@@ -4,3 +4,4 @@
 - DeltaChat führt diese Apps in einem **isolierten** Browser aus.
 - Eine Kommunikation mit dem öffentlichen Internet ist nicht möglich; nur die bereitgestellten **APIs** sind zugänglich.
 - Die Kommunikation verwendet nur zwei grundlegenden Funktionen `sendStatusUpdate` und `setUpdateListener`.
+- **Peer To Peer** Kommunikation mit [Iroh]()

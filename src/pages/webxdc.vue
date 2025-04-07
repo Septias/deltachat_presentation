@@ -1,6 +1,6 @@
 <template lang="pug">
 slide
-  h1 Was ist Webxdc?
+  h1 Der Webxdc Standart
   slide2sides
     template(#left)
       webxdc_content
@@ -12,6 +12,6 @@ slide
 
 <route lang="yaml">
 meta:
-  heading: Was ist Webxdc?
+  heading: Geteilte Apps (Webxdc)
   next: bots
 </route>

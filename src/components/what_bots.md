@@ -1,3 +1,0 @@
-- **Bots** are programs that behave just as normal deltachat users.
-- They can be added to groups and can **send** and **receive** messages.
-- They use the same **core** as every other platform user inteferfaces - making them basically undistinguishable from normal users.

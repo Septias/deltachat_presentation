@@ -1,14 +1,18 @@
 <template lang="pug">
 slide
-  h1 What are Bots?
+  h1 Deltachat Bots
   slide2sides
     template(#left)
-      what_bots
+      bot
     template(#right)
-      img(width="250" src="/bot_chat.jpeg")
+      .flex.gap-5
+        img(width="250" src="/bot_chat.jpeg")
+        img(width="250" src="/xstore.jpeg")
+
 </template>
 
 <route lang="yaml">
 meta:
-  heading: What are Bots?
+  heading: Deltachat Bots
+  next: outro
 </route>

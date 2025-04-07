@@ -1,19 +1,22 @@
 <script lang="ts" setup>
-import { inject, onUnmounted } from 'vue'
+import {  onUnmounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 
 const route = useRoute()
 const router = useRouter()
-
+//const prev = inject('prev')
 
 function listener(e: any) {
   const next = route.meta.next
+  if (!next) {
+    return
+  }
 
   if (e.key === 'ArrowLeft') {
     router.back()
   }
   else if (e.key === 'ArrowRight') {
-    router.push({path: next})
+    router.push(next)
   }
 }
 document.addEventListener('keydown', listener)

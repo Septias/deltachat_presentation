@@ -1,5 +1,6 @@
-- Delta Chat Bots verhalten sich genau wie normale Deltachat Nutzer
-- Es können Nachrichten Empfangen und Gelesen werden
-- Er kan Chats erstellen und löschen
-- Er kann die Interaktion mit Webxdcs simulieren
-- Gutes Beispiel X-Store
+- Delta Chat Bots verhalten sich genau wie **normale Deltachat Nutzer**
+- Es können Nachrichten **Empfangen und Gelesen** werden
+- Er kan **Chats erstellen und löschen**
+- Er kann die Interaktion mit **Webxdcs simulieren**
+- Gutes Beispiel **X-Store**
+- Kann verwendet werden um Gruppen zu **administrieren**
