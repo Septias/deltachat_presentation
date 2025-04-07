@@ -5,3 +5,8 @@ slide
 
     p Sebastian Klähn
 </template>
+
+<route lang="yaml">
+meta:
+  next: intro
+</route>
