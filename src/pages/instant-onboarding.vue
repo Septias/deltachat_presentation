@@ -6,7 +6,7 @@
       template(#left)
         .flex.flex-col
           ul
-            li Verbinden Sie sich mit Menschen, indem Sie einfach
+            li Verbinden Sie sich mit Freunden, indem Sie einfach
               b  einen QR-Code scannen
             li Keine Notwendigkeit, die Telefonnummer zu teilen
             li Kein Passwort erforderlich

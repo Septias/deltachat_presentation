@@ -1,8 +1,6 @@
-- Wie cool wäre es, wenn man in chats auch noch gemeinsame Apps teilen könnte?
-- Das geht mit **webxdc**
-- Etwa 80 Apps
-- Apps können ganz einfach mit `html`, `css` und `js` erstellt werden.
-- Delta Chat führt diese Apps in einem **isolierten** Browser aus.
-- Eine Kommunikation mit dem öffentlichen Internet ist nicht möglich; nur die bereitgestellten **APIs** sind zugänglich.
-- Die Kommunikation verwendet nur zwei grundlegenden Funktionen `sendStatusUpdate` und `setUpdateListener`.
+- **Webxdc** erlaubt es Apps in Chats zu teilen
+- Es gibt einen **Webxdc store** mit 80 Apps
+- Apps können ganz einfach mit `html`, `css` und `js` erstellt werden
+- Delta Chat führt diese Apps in einem **isolierten** Browser aus
+- Apps kommunizieren restricted,  nur chat-partner erreichbar
 - **Peer To Peer** Kommunikation mit [Iroh]()

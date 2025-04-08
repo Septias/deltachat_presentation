@@ -1,5 +1,5 @@
-- Delta Chat ist ein **Messenger** wie WhatsApp oder Telegram.
-- Der zugrunde liegende Kommunikationskanal ist **E-Mail**.
-- Auf diese Weise kann praktisch jeder Delta Chat nutzen, und es ist von Natur aus dezentralisiert.
-- **Privatsphäre** und **Dezentralisierung** sind Kernmerkmale von Delta Chat.
+- Delta Chat ist ein **Messenger** wie WhatsApp oder Telegram
+- Der zugrunde liegende Kommunikationskanal ist **E-Mail**
+- Auf diese Weise kann praktisch jeder Delta Chat nutzen, und es ist von Natur aus dezentralisiert
+- **Privatsphäre** und **Dezentralisierung** sind Kernmerkmale von Delta Chat
 - <https://delta.chat/de/download>

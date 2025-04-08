@@ -1,8 +1,8 @@
-- Sehr einfach zu verwaltene **Email-Relays** und selber aufzusetzen
+- Sehr einfach zu verwaltene **Email-Relays** zum selber aufsetzen
 - **Keine Datenspeicherung**, nur Übermittlung
 - Optimiert auf **schnellen** Emailverkehr
 - Versendet **nur verschlüsselte** Nachrichten (Outbound-filter)
-- Hohes Maß an Sicherheit: DKIM, aDKIM, TSL, ..
+- Hohes Maß an Sicherheit: DKIM, TSL, ..
 - Komponenten: **Postfix**, **Dovecot**, **opendkim**, **acmetool**, **nginx**, ..
 - **Sicher** vor MITM Angriffen
-- Einzig einsehbare Daten: Nachrichtendatum, Sender und Empfänger Addresses.
+- Einzig einsehbare Daten: Nachrichtendatum, Sender und Empfänger Addresses

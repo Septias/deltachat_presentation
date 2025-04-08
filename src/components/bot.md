@@ -1,6 +1,4 @@
-- Delta Chat Bots verhalten sich genau wie **normale Delta Chat Nutzer**
-- Es können Nachrichten **Empfangen und Gelesen** werden
-- Er kan **Chats erstellen und löschen**
-- Er kann die Interaktion mit **Webxdcs simulieren**
-- Gutes Beispiel **X-Store**
-- Kann verwendet werden um Gruppen zu **administrieren**
+- Sind Programme die Mitglied in einem Chat sein können
+- Bots können alles was menschliche Chat Partner auch können
+- Kontaktaufnahme über VCard, Steuerung mit "/help", Webxdc simulieren
+- Public bots index mit vielen Bots, siehe auch https://chatmail.at/clients
