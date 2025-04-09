@@ -14,5 +14,5 @@ slide
 <route lang="yaml">
 meta:
   heading: Delt Chat Bots
-  next: outro
+  next: security
 </route>

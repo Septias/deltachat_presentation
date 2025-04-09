@@ -1,4 +1,4 @@
 - Sind Programme die Mitglied in einem Chat sein können
-- Bots können alles was menschliche Chat Partner auch können
+- Bots können all das, was menschliche Chat Partner auch können
 - Kontaktaufnahme über VCard, Steuerung mit "/help", Webxdc simulieren
 - Public bots index mit vielen Bots, siehe auch https://chatmail.at/clients

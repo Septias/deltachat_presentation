@@ -2,5 +2,5 @@
 - Es gibt einen **Webxdc store** mit 80 Apps
 - Apps können ganz einfach mit `html`, `css` und `js` erstellt werden
 - Delta Chat führt diese Apps in einem **isolierten** Browser aus
-- Apps kommunizieren restricted,  nur chat-partner erreichbar
-- **Peer To Peer** Kommunikation mit [Iroh]()
+- Apps kommunizieren nur mit den Chatpartner
+- **Peer To Peer** Kommunikation mit [Iroh](https://iroh.computer)

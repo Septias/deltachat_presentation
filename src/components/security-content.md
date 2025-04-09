@@ -1,0 +1,5 @@
+- Über **2 Millionen Euro** funding aus öffentlichen Töpfen wie dem **NGI** (Next Generation Internet) und **OTF** (Open Tech Fund)
+- Durch E2E-Verschlüsselung **GDPR konform**
+- **Keine Datenspeicherung auf Servern** sondern nur auf Endgeräten und Nutzergewählten Email-Servern
+- **Keine Datenverarbeitungs-vereinbarungen** notwendig, weil keine Daten verarbeitet werden
+- **6 Security Audits** von 2019 bis 2025 (rPGP, Cryptographic Analysis (ETH), Webxdc, Transport, IMAP, SMTP, TLS)

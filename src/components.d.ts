@@ -13,6 +13,7 @@ declare module 'vue' {
     DcFeaturesMd: typeof import('./components/dc-features-md.md')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    SecurityContent: typeof import('./components/security-content.md')['default']
     Slide: typeof import('./components/slide.vue')['default']
     Slide2sides: typeof import('./components/slide2sides.vue')['default']
     Webxdc_content: typeof import('./components/webxdc_content.md')['default']
